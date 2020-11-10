@@ -105,7 +105,7 @@ namespace Lab9
 
 
 
-            Console.WriteLine($"Задание №2\n");
+            Console.WriteLine($"2 задание\n");
             Console.Write($"Введите строку: ");
             string str = Console.ReadLine();
 
